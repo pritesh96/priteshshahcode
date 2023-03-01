@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priteshshahcode
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning pythono
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
